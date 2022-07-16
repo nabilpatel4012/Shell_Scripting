@@ -1,0 +1,2 @@
+Hello This text is redirected to this file
+This is another text which is appended
